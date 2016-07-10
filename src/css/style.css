@@ -1,0 +1,16 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: url(../img/news.gif) center top;
+  color: #4d4d4d;
+}
+
+.wrapper {
+  margin:80px auto;
+  width: 1000px;
+  text-align: center;
+}
+
+p {
+    display: inline;
+    vertical-align: middle;
+}

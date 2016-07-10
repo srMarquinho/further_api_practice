@@ -1,0 +1,21 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "Front-end To-do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "(mocha)"
+  },
+  "author": "MA",
+  "license": "ISC",
+
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "http-server": "^0.9.0",
+    "sinon": "^1.17.4"
+  },
+  "devDependencies": {
+    "zombie": "^4.2.1"
+  }
+}
